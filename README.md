@@ -1,2 +1,2 @@
 # Fluctuations-in-growth-processes
-The respository contains the presentation that was deliverd at the end of my internship at the London Mathematical Laboratory (U.K) on the work that was done during the internship. 
+The respository contains the final presentation that was deliverd at the end of my summer internship at the London Mathematical Laboratory (U.K). This work was done in collaboration with Dominica Yates under the supervision of LML fellows Dr. Ole Peters  and Dr. Alexander Adamou. 
